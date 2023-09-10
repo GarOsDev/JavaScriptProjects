@@ -14,7 +14,7 @@
 
 while (true) {
 
-    let palabra = 'java', palabraFormada = ""
+    let palabra = 'sal', palabraFormada = ""
     let contenedorPalabra = [], contenedorNumeros = []
     let posIni = 0, contador = 0, contadorPalabra = 0, factorial = 1
     let verif = false
